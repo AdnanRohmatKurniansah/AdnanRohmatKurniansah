@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**AdnanRohmatKurniansah/AdnanRohmatKurniansah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Introduction
 
-Here are some ideas to get you started:
+<p>Hi guys, I'm Adnan Rohmat Kurniansah.<br>
+I am a student from SMK N 1 Bantul.</p>
+  
+## 📚 Something I'm learning 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,bootstrap,laravel,mysql" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
