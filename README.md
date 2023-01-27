@@ -1,8 +1,7 @@
 
 ## 👋 Introduction
 
-<p>Hi guys, I'm Adnan Rohmat Kurniansah.<br>
-I am a student from SMK N 1 Bantul.</p>
+<p>Hi guys, I'm Adnan Rohmat Kurniansah.</p>
   
 ## 📚 Something I'm learning 
 <p>
