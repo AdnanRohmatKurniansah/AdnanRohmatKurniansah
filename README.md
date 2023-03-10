@@ -1,7 +1,7 @@
 
 ## 👋 Introduction
 
-<p>Hi guys, I'm Adnan Rohmat Kurniansah.</p>
+<p>Hi guys, I'm Adnan Rohmat Kurniansah</p>
   
 ## 📚 Something I'm learning 
 <p>
