@@ -6,7 +6,7 @@
 ## 📚 Something I'm learning 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,bootstrap,laravel,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,bootstrap,laravel,mysql,git" />
   </a>
 </p>
 
