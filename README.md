@@ -9,7 +9,7 @@
 ## 🧰 Something I'm Learning 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,bootstrap,laravel,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,bootstrap,laravel,mysql,git,react" />
   </a>
 </p>
 
