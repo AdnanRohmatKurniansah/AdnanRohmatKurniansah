@@ -15,11 +15,12 @@
 
  
 <a href="https://github.com/AdnanRohmatKurniansah/AdnanRohmatKurniansah">
- <img class="align-senter" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanRohmatKurniansah&layout=compact&theme=dark#gh-dark-mode-only"/>
+ <img class="align-senter" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdnanRohmatKurniansah&layout=compact&theme=dark#gh-dark-mode-only"/>
 </a>
 <a href="https://github.com/AdnanRohmatKurniansah/AdnanRohmatKurniansah">
-  <img class="align-senter" src="https://github-readme-stats.vercel.app/api?username=AdnanRohmatKurniansah&show_icons=true&theme=dark#gh-dark-mode-only"/>
+  <img class="align-senter" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdnanRohmatKurniansah&&show_icons=true&theme=dark"/>
 </a>
+
  
  
 
