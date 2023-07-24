@@ -6,11 +6,24 @@
 - 📚 I’m studying at <b>SMK N 1 Bantul</b>
 
 
-## 🧰 Something I'm Learning 
+## Here is tech stacks I know and use 🛠
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,java,bootstrap,laravel,mysql,git,react" />
-  </a>
+
+ 
+![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp; 
+![CSS3](https://img.shields.io/badge/-CSS3-2f1a47?style=flat&logo=css3&logoColor=039be5)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=bootstrap)&nbsp;
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=Javascript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=MySQL)&nbsp;
+![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
+![Next.JS](https://img.shields.io/badge/-Next.JS-2f1a47?style=flat&logo=next.js)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss)&nbsp;  
+![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
+![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git)&nbsp;
+![Github](https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-2f1a47?style=flat&logo=postman)&nbsp;
 </p>
 
  
