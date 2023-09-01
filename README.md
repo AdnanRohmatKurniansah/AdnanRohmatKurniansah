@@ -18,6 +18,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=MySQL)&nbsp;
 ![React](https://img.shields.io/badge/-React-2f1a47?style=flat&logo=react)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
+![Express.JS](https://img.shields.io/badge/Express.JS-2f1a47?style=flat&logo=express&logoColor=white)&nbsp;
+![Mongo.DB](https://img.shields.io/badge/MongoDB-2f1a47?style=flat&logo=mongodb&logoColor=4EA94B)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-2f1a47?style=flat&logo=next.js)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss)&nbsp;  
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
