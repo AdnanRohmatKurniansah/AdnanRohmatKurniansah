@@ -24,7 +24,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss)&nbsp;  
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/-Github-2f1a47?style=flat&logo=github)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-2f1a47?style=flat&logo=postman)&nbsp;
 </p>
 
