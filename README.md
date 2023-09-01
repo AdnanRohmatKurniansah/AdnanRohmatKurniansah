@@ -7,7 +7,7 @@
 
 
 ## Here is tech stacks I know and use 🛠
-<p>
+<div style="width: 100%">
 
  
 ![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp; 
@@ -21,11 +21,11 @@
 ![Express.JS](https://img.shields.io/badge/Express.JS-2f1a47?style=flat&logo=express&logoColor=white)&nbsp;
 ![Mongo.DB](https://img.shields.io/badge/MongoDB-2f1a47?style=flat&logo=mongodb&logoColor=4EA94B)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-2f1a47?style=flat&logo=next.js)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2f1a47?style=flat&logo=tailwindcss)&nbsp;  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-2f1a47?style=flat&logo=tailwindcss)&nbsp;  
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-2f1a47?style=flat&logo=git)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-2f1a47?style=flat&logo=postman)&nbsp;
-</p>
+</div>
 
  
 <a href="https://github.com/AdnanRohmatKurniansah/AdnanRohmatKurniansah">
