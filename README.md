@@ -41,6 +41,7 @@ console.log(mySelf.sayHello());
 ![Express.JS](https://img.shields.io/badge/-Express-2f1a47?style=flat&logo=express)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.JS-2f1a47?style=flat&logo=next.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-2f1a47?style=flat&logo=Laravel)&nbsp;
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-2f1a47?style=flat&logo=Codeigniter)&nbsp;
 ![Mongo.DB](https://img.shields.io/badge/MongoDB-2f1a47?style=flat&logo=mongodb&logoColor=4EA94B)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2f1a47?style=flat&logo=postgresql&logoColor=white)&nbsp;
 ![Supabase](https://img.shields.io/badge/Supabase-2f1a47?style=flat&logo=supabase&logoColor=white)&nbsp;
