@@ -61,8 +61,9 @@ console.log(mySelf.sayHello());
   📈 Stats
 </h2>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdnanRohmatKurniansah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" alt="AdnanRohmatKurniansah's github stats" /> | <img src="https://streak-stats.demolab.com?user=AdnanRohmatKurniansah&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" alt="streak graph"  /> | 
-| ------------- | ------------- |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdnanRohmatKurniansah&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanRohmatKurniansah&theme=tokyonight&hide_border=true" /> |
+|---|---|
+
 
  
  
