@@ -64,6 +64,8 @@ console.log(mySelf.sayHello());
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdnanRohmatKurniansah&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanRohmatKurniansah&theme=tokyonight&hide_border=true" /> |
 |---|---|
 
+![:name](https://count.getloli.com/@:rule34)
+
 
  
  
