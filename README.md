@@ -61,8 +61,9 @@ console.log(mySelf.sayHello());
   📈 Stats
 </h2>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdnanRohmatKurniansah&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanRohmatKurniansah&theme=tokyonight&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanrohmatkurniansah&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrohmatkurniansah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" /> |
 |---|---|
+
 
 <img src="https://moe-counter.glitch.me/get/@AdnanRohmatKurniansah?theme=booru-lewd" alt="moecounter" />
 
