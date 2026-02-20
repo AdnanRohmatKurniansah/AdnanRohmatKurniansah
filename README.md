@@ -61,11 +61,20 @@ console.log(mySelf.sayHello());
   📈 Stats
 </h2>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanrohmatkurniansah&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanrohmatkurniansah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" /> |
-|---|---|
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnanrohmatkurniansah&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adnanrohmatkurniansah&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnanrohmatkurniansah&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/@AdnanRohmatKurniansah?theme=booru-lewd" alt="moecounter" />
+</p>
 
 
-<img src="https://moe-counter.glitch.me/get/@AdnanRohmatKurniansah?theme=booru-lewd" alt="moecounter" />
 
 
  
